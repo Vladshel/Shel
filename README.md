@@ -1,6 +1,5 @@
 # GitHub-Intro
-![NTU KhPI](https://img.shields.io/badge/NTU_%22KhPI%22-KN_126-grey?labelColor=darkred) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-
+![NTU KhPI](https://img.shields.io/badge/NTU_%22KhPI%22-KN_126-grey?labelColor=darkred) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ## Quick references
 [Author](#author) | [Description](#description) | [My favourite university subjects](#my-favourite-university-subjects) | [Online VS Offline studying](#online-vs-offline-studying) | [My favourite math formulas](#my-favourite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
 
