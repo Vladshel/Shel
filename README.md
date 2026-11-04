@@ -70,14 +70,15 @@ $$
 
 ## My coding skills
 
-Я вивчаю програмування на C++, ось приклад робочого коду:
+Я вивчаю програмування на C++, ось приклад повного робочого коду:
 
 ```cpp
 #include <iostream>
+
 using namespace std;
 
 int main() {
-    cout << "Hello, GitHub!";
+    cout << "Hello, GitHub!" << endl;
     return 0;
 }
 ``` 
