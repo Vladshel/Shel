@@ -1,12 +1,12 @@
 # GitHub-Intro
-![NTU KhPI](https://img.shields.io/badge/NTU_%22KhPI%22-[KN_126]-darkred) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![NTU KhPI](https://img.shields.io/badge/NTU_%22KhPI%22-KN_126-grey?labelColor=darkred) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 
 ## Quick references
 [Author](#author) | [Description](#description) | [My favourite university subjects](#my-favourite-university-subjects) | [Online VS Offline studying](#online-vs-offline-studying) | [My favourite math formulas](#my-favourite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
 
 ## Author
 * **Name:** *Vladislav*
-* **Group:** *[KN-126]*
+* **Group:** *KN-126*
 * **Date:** *04.11.2026*
 
 ## Description
@@ -44,9 +44,9 @@ $$
 
 $$
 \begin{cases}
-\lim_{n \to \infty} (\alpha_n \pm \beta_n) = \lambda \pm \mu \\
-\lim_{n \to \infty} (\alpha_n \cdot \beta_n) = \lambda \cdot \mu \\
-\lim_{n \to \infty} \left( \frac{\alpha_n}{\beta_n} \right) = \frac{\lambda}{\mu}
+\lim\limits_{n \to \infty} (\alpha_n \pm \beta_n) = \lambda \pm \mu \\
+\lim\limits_{n \to \infty} (\alpha_n \cdot \beta_n) = \lambda \cdot \mu \\
+\lim\limits_{n \to \infty} \left( \frac{\alpha_n}{\beta_n} \right) = \frac{\lambda}{\mu}
 \end{cases}
 $$
 
@@ -81,6 +81,7 @@ int main() {
     cout << "Hello, GitHub!";
     return 0;
 }
+У цьому прикладі функція `main()` є точкою входу в програму та виводить повідомлення в консоль. Перевірити код можна у веб-компіляторі (https://www.onlinegdb.com/online_c++_compiler).
 ``` 
 ## The image I like
 Тут пара фотографій з моєї подорожі до Парижа. На них я зображений на фоні головних визначних пам'яток міста - легендарної Ейфелевої вежі та знаменитого музею Лувр.
